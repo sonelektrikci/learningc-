@@ -1,0 +1,3 @@
+C:/Users/Fatih/Desktop/clion/SchoolProjectDeneme/cmake-build-debug/CMakeFiles/SchoolProjectDeneme.dir
+C:/Users/Fatih/Desktop/clion/SchoolProjectDeneme/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Fatih/Desktop/clion/SchoolProjectDeneme/cmake-build-debug/CMakeFiles/rebuild_cache.dir

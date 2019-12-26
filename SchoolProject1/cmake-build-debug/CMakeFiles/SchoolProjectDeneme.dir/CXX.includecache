@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Fatih/Desktop/clion/SchoolProjectDeneme/Course.cpp
+Course.h
+C:/Users/Fatih/Desktop/clion/SchoolProjectDeneme/Course.h
+iostream
+-
+string
+-
+algorithm
+-
+map
+-
+
+C:/Users/Fatih/Desktop/clion/SchoolProjectDeneme/Course.h
+iostream
+-
+string
+-
+map
+-
+
